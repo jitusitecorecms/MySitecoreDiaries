@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -41,6 +42,61 @@ namespace LoopExample
             { Console.WriteLine("{0} is a Prime Number." , num); }
             else
             { Console.WriteLine("{0} is not a Prime Number.", num); } 
+        }
+
+        public static void GetFactorialofNumber()
+        {
+            Console.Write("Enter number = ");
+            int n = int.Parse(Console.ReadLine());
+            BigInteger factorial = 1;
+            do
+            {
+                factorial *= n;
+                n--;
+            } while (n > 0);
+            Console.WriteLine("factorial of n is :  " + factorial);
+        }
+
+        public static void PrintingTriangle()
+        {
+            Console.Write("Enter length = ");
+            int n = int.Parse(Console.ReadLine());
+            for (int row = 1; row <= n; row++)
+            {
+                for (int col = 1; col <= row; col++)
+                {
+                    Console.Write(col + " ");
+                }
+                Console.WriteLine();
+            }
+        }
+
+        public static void PrimeNumbers()
+        {
+            Console.Write("n = ");
+            int n = int.Parse(Console.ReadLine());
+            Console.Write("m = ");
+            int m = int.Parse(Console.ReadLine());
+            for (int num = n; num <= m; num++)
+            {
+                bool prime = true;
+                int divider = 2;
+                int maxDivider = (int)Math.Sqrt(num);
+                while (divider <= maxDivider)
+                {
+                    if (num % divider == 0)
+                    {
+                        prime = false;
+                        break;
+                    }
+                    divider++;
+                }
+                if (prime)
+                {
+                    Console.Write(" " + num);
+                }
+            }
+
         }
     }
 }
