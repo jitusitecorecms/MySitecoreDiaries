@@ -1,0 +1,946 @@
+D:\mysitecorediaries\sitecore\src\Feature\code\code\obj\Debug\MySitecoreDiaries.Features.csproj.AssemblyReference.cache
+D:\mysitecorediaries\sitecore\src\Feature\code\code\obj\Debug\MySitecoreDiaries.Features.csproj.CoreCompileInputs.cache
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\NUnit3.TestAdapter.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\NUnit3.TestAdapter.pdb
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\nunit.engine.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\nunit.engine.api.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\MySitecoreDiaries.Features.dll.config
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\MySitecoreDiaries.Features.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\MySitecoreDiaries.Features.pdb
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\csc.exe
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\csc.exe.config
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\csc.rsp
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\csi.exe
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\csi.exe.config
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\csi.rsp
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.AppContext.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Collections.Immutable.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Console.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Diagnostics.Process.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.IO.Compression.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.IO.FileSystem.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.IO.Pipes.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Reflection.Metadata.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Security.AccessControl.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Security.Claims.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Security.Principal.Windows.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Threading.Thread.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.ValueTuple.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Xml.XmlDocument.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Xml.XPath.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\vbc.exe
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\vbc.exe.config
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\vbc.rsp
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\VBCSCompiler.exe
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\roslyn\VBCSCompiler.exe.config
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Antlr3.Runtime.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Configy.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\DeloitteDigital.Atlas.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\DocumentFormat.OpenXml.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\EcmaScript.NET.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\HtmlAgilityPack.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\HtmlTags.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\ICSharpCode.SharpZipLib.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Kamsar.WebConsole.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Analyzers.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Core.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.FastVectorHighlighter.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Highlighter.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Memory.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Queries.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Regex.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.SimpleFacetedSearch.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Snowball.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.SpellChecker.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\MicroCHAP.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.AI.Agent.Intercept.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.AI.DependencyCollector.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.AI.Web.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.AI.WindowsServer.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.ApplicationInsights.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.AspNet.OData.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.IdentityModel.Logging.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.IdentityModel.Tokens.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.OData.Core.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.OData.Edm.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Configuration.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Practices.ServiceLocation.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Spatial.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Web.Delegation.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Web.Deployment.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Web.Deployment.Tracing.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Web.Infrastructure.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Mvp.Xml.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Newtonsoft.Json.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\nunit.framework.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\PdfSharp.Charting.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\PdfSharp.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\protobuf-net.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Rainbow.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Rainbow.Storage.Sc.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Rainbow.Storage.Yaml.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\RazorGenerator.Mvc.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Abstractions.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Annotations.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Buckets.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Client.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Content.Services.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ContentSearch.Client.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ContentSearch.ContentExtraction.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ContentSearch.Data.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ContentSearch.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ContentSearch.Linq.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ContentSearch.Linq.Lucene.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ContentSearch.LuceneProvider.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Data.ResourceItems.Abstractions.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Data.ResourceItems.ProtobufNet.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ExperienceEditor.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ExperienceForms.Client.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ExperienceForms.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ExperienceForms.Mvc.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Framework.Conditions.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Framework.Data.Blobs.Abstractions.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Framework.Data.Blobs.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ItemWebApi.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Kernel.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Kernel.Portable.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.LayoutService.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Logging.Client.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Logging.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Mvc.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Mvc.ExperienceEditor.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Nexus.Consumption.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Nexus.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Nexus.Licensing.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.NVelocity.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Publishing.WebDeploy.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Screenshots.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Services.Client.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Services.Core.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Services.Infrastructure.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Services.Infrastructure.Sitecore.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Speak.Client.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Speak.Components.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Speak.Components.Guidance.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Speak.Components.Web.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Speak.ItemWebApi.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Speak.Web.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Web.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Zip.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Buffers.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Diagnostics.DiagnosticSource.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.IO.Packaging.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Memory.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Net.Http.Formatting.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Numerics.Vectors.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Security.AccessControl.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Security.Cryptography.Xml.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Security.Permissions.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Security.Principal.Windows.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Text.Encodings.Web.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Text.Json.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Threading.Tasks.Extensions.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.ValueTuple.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.Cors.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.Helpers.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.Http.Cors.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.Http.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.Http.WebHost.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.Mvc.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.Optimization.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.Razor.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.WebPages.Deployment.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.WebPages.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.WebPages.Razor.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Unicorn.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Unicorn.Roles.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\WebActivatorEx.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\WebGrease.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Yahoo.Yui.Compressor.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Antlr3.Runtime.pdb
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\DocumentFormat.OpenXml.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\HtmlAgilityPack.pdb
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\HtmlAgilityPack.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\ICSharpCode.SharpZipLib.pdb
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\ICSharpCode.SharpZipLib.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.pdb
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Analyzers.pdb
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Analyzers.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Core.pdb
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Core.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.FastVectorHighlighter.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Highlighter.pdb
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Highlighter.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Memory.pdb
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Memory.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Queries.pdb
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Queries.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Regex.pdb
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Regex.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.SimpleFacetedSearch.pdb
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.SimpleFacetedSearch.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Snowball.pdb
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.Snowball.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.SpellChecker.pdb
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Lucene.Net.Contrib.SpellChecker.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.AI.DependencyCollector.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.AI.Web.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.AI.WindowsServer.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.ApplicationInsights.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.AspNet.OData.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.IdentityModel.Logging.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.IdentityModel.Tokens.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.OData.Core.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.OData.Edm.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Configuration.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Practices.ServiceLocation.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Microsoft.Spatial.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Mvp.Xml.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Newtonsoft.Json.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\nunit.framework.pdb
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\nunit.framework.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\PdfSharp.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\PdfSharp.Charting.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\protobuf-net.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Abstractions.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Annotations.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Buckets.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Client.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ContentSearch.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ContentSearch.Client.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ContentSearch.ContentExtraction.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ContentSearch.Data.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ContentSearch.Linq.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ContentSearch.Linq.Lucene.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ContentSearch.LuceneProvider.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Data.ResourceItems.Abstractions.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Data.ResourceItems.ProtobufNet.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Framework.Conditions.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Framework.Data.Blobs.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Framework.Data.Blobs.Abstractions.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.ItemWebApi.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Kernel.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Kernel.Portable.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.LayoutService.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Logging.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Logging.Client.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.NVelocity.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Publishing.WebDeploy.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Screenshots.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Web.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\Sitecore.Zip.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Buffers.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Diagnostics.DiagnosticSource.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Memory.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Net.Http.Formatting.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Numerics.Vectors.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Security.AccessControl.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Security.Cryptography.Xml.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Security.Principal.Windows.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Text.Encodings.Web.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Text.Json.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Threading.Tasks.Extensions.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.ValueTuple.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.Helpers.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.Http.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.Http.Cors.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.Http.WebHost.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.Mvc.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.Optimization.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.Razor.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.WebPages.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.WebPages.Deployment.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\System.Web.WebPages.Razor.xml
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\de\PdfSharp.resources.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\bin\de\PdfSharp.Charting.resources.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\obj\Debug\MySiteco.F2FCC2C5.Up2Date
+D:\mysitecorediaries\sitecore\src\Feature\code\code\obj\Debug\MySitecoreDiaries.Features.dll
+D:\mysitecorediaries\sitecore\src\Feature\code\code\obj\Debug\MySitecoreDiaries.Features.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\obj\Debug\MySitecoreDiaries.Features.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\obj\Debug\MySitecoreDiaries.Features.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\NUnit3.TestAdapter.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\NUnit3.TestAdapter.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\nunit.engine.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\nunit.engine.api.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\MySitecoreDiaries.Features.dll.config
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\MySitecoreDiaries.Features.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\MySitecoreDiaries.Features.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\csc.exe
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\csc.exe.config
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\csc.rsp
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\csi.exe
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\csi.exe.config
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\csi.rsp
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.AppContext.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Console.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.IO.Compression.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Security.Claims.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Threading.Thread.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.ValueTuple.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\vbc.exe
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\vbc.exe.config
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\vbc.rsp
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\VBCSCompiler.exe
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Antlr3.Runtime.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Configy.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\DocumentFormat.OpenXml.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\EcmaScript.NET.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\HtmlAgilityPack.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\HtmlTags.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Kamsar.WebConsole.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Analyzers.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Core.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.FastVectorHighlighter.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Highlighter.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Memory.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Queries.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Regex.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.SimpleFacetedSearch.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Snowball.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.SpellChecker.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\MicroCHAP.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.AI.Web.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.AspNet.OData.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.OData.Core.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.OData.Edm.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Configuration.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Spatial.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Web.Delegation.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Web.Deployment.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Web.Deployment.Tracing.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Mvp.Xml.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Newtonsoft.Json.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\nunit.framework.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\PdfSharp.Charting.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\PdfSharp.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\protobuf-net.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Rainbow.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Rainbow.Storage.Sc.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Rainbow.Storage.Yaml.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\RazorGenerator.Mvc.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Abstractions.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Annotations.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Buckets.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Client.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Content.Services.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ContentSearch.Client.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ContentSearch.ContentExtraction.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ContentSearch.Data.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ContentSearch.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ContentSearch.Linq.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ContentSearch.Linq.Lucene.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ContentSearch.LuceneProvider.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Data.ResourceItems.Abstractions.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Data.ResourceItems.ProtobufNet.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ExperienceEditor.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ExperienceForms.Client.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ExperienceForms.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ExperienceForms.Mvc.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Framework.Conditions.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Framework.Data.Blobs.Abstractions.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Framework.Data.Blobs.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ItemWebApi.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Kernel.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Kernel.Portable.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.LayoutService.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Logging.Client.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Logging.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Mvc.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Mvc.ExperienceEditor.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Nexus.Consumption.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Nexus.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Nexus.Licensing.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.NVelocity.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Publishing.WebDeploy.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Screenshots.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Services.Client.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Services.Core.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Services.Infrastructure.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Services.Infrastructure.Sitecore.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Speak.Client.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Speak.Components.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Speak.Components.Guidance.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Speak.Components.Web.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Speak.ItemWebApi.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Speak.Web.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Web.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Zip.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Buffers.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.IO.Packaging.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Memory.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Numerics.Vectors.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Security.AccessControl.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Security.Cryptography.Xml.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Security.Permissions.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Security.Principal.Windows.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Text.Encodings.Web.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Text.Json.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.ValueTuple.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.Cors.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.Helpers.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.Http.Cors.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.Http.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.Http.WebHost.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.Mvc.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.Optimization.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.Razor.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.WebPages.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.WebPages.Razor.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Unicorn.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Unicorn.Roles.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\WebActivatorEx.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\WebGrease.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Yahoo.Yui.Compressor.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Antlr3.Runtime.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\DocumentFormat.OpenXml.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\HtmlAgilityPack.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\HtmlAgilityPack.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\ICSharpCode.SharpZipLib.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\ICSharpCode.SharpZipLib.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Analyzers.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Analyzers.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Core.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Core.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.FastVectorHighlighter.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Highlighter.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Highlighter.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Memory.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Memory.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Queries.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Queries.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Regex.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Regex.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.SimpleFacetedSearch.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.SimpleFacetedSearch.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Snowball.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.Snowball.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.SpellChecker.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Lucene.Net.Contrib.SpellChecker.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.AI.Web.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.AspNet.OData.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.OData.Core.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.OData.Edm.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Configuration.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Microsoft.Spatial.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Mvp.Xml.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Newtonsoft.Json.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\nunit.framework.pdb
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\nunit.framework.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\PdfSharp.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\PdfSharp.Charting.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\protobuf-net.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Abstractions.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Annotations.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Buckets.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Client.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ContentSearch.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ContentSearch.Client.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ContentSearch.ContentExtraction.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ContentSearch.Data.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ContentSearch.Linq.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ContentSearch.Linq.Lucene.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ContentSearch.LuceneProvider.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Data.ResourceItems.Abstractions.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Data.ResourceItems.ProtobufNet.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Framework.Conditions.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Framework.Data.Blobs.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Framework.Data.Blobs.Abstractions.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.ItemWebApi.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Kernel.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Kernel.Portable.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.LayoutService.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Logging.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Logging.Client.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.NVelocity.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Publishing.WebDeploy.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Screenshots.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Web.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\Sitecore.Zip.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Buffers.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Memory.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Net.Http.Formatting.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Numerics.Vectors.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Security.AccessControl.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Security.Cryptography.Xml.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Security.Principal.Windows.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Text.Encodings.Web.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Text.Json.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.ValueTuple.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.Helpers.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.Http.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.Http.Cors.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.Http.WebHost.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.Mvc.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.Optimization.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.Razor.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.WebPages.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\System.Web.WebPages.Razor.xml
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\de\PdfSharp.resources.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\bin\de\PdfSharp.Charting.resources.dll
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\obj\Debug\MySitecoreDiaries.Features.csproj.AssemblyReference.cache
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\obj\Debug\MySitecoreDiaries.Features.csproj.CoreCompileInputs.cache
+C:\Users\jiten\Downloads\sitecore (1)\src\Feature\code\code\obj\Debug\MySitecoreDiaries.Features.csproj.CopyComplete
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Sitecore\Custom Content Resolver\src\Feature\code\code\obj\Debug\MySitecoreDiaries.Features.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Sitecore\Custom Content Resolver\src\Feature\code\code\obj\Debug\MySitecoreDiaries.Features.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\NUnit3.TestAdapter.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\NUnit3.TestAdapter.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\nunit.engine.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\nunit.engine.api.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\MySitecoreDiaries.Features.dll.config
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\MySitecoreDiaries.Features.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\MySitecoreDiaries.Features.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\csc.exe
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\csc.exe.config
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\csc.rsp
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\csi.exe
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\csi.exe.config
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\csi.rsp
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.AppContext.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Collections.Immutable.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Console.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Diagnostics.Process.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.IO.Compression.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.IO.FileSystem.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.IO.Pipes.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Reflection.Metadata.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Security.AccessControl.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Security.Claims.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Threading.Thread.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.ValueTuple.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Xml.XPath.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\vbc.exe
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\vbc.exe.config
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\vbc.rsp
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\VBCSCompiler.exe
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\roslyn\VBCSCompiler.exe.config
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Antlr3.Runtime.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Configy.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\DocumentFormat.OpenXml.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\EcmaScript.NET.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\HtmlAgilityPack.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\HtmlTags.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\ICSharpCode.SharpZipLib.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Kamsar.WebConsole.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Analyzers.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Core.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.FastVectorHighlighter.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Highlighter.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Memory.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Queries.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Regex.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.SimpleFacetedSearch.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Snowball.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.SpellChecker.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\MicroCHAP.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.AI.DependencyCollector.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.AI.Web.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.AI.WindowsServer.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.ApplicationInsights.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.AspNet.OData.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.IdentityModel.Logging.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.OData.Core.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.OData.Edm.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Configuration.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Spatial.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Web.Delegation.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Web.Deployment.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Web.Deployment.Tracing.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Web.Infrastructure.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Mvp.Xml.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Newtonsoft.Json.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\nunit.framework.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\PdfSharp.Charting.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\PdfSharp.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\protobuf-net.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Rainbow.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Rainbow.Storage.Sc.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Rainbow.Storage.Yaml.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\RazorGenerator.Mvc.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Abstractions.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Annotations.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Buckets.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Client.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Content.Services.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ContentSearch.Client.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ContentSearch.ContentExtraction.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ContentSearch.Data.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ContentSearch.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ContentSearch.Linq.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ContentSearch.Linq.Lucene.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ContentSearch.LuceneProvider.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Data.ResourceItems.Abstractions.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Data.ResourceItems.ProtobufNet.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ExperienceEditor.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ExperienceForms.Client.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ExperienceForms.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ExperienceForms.Mvc.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Framework.Conditions.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Framework.Data.Blobs.Abstractions.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Framework.Data.Blobs.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ItemWebApi.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Kernel.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Kernel.Portable.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.LayoutService.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Logging.Client.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Logging.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Mvc.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Mvc.ExperienceEditor.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Nexus.Consumption.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Nexus.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Nexus.Licensing.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.NVelocity.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Publishing.WebDeploy.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Screenshots.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Services.Client.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Services.Core.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Services.Infrastructure.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Services.Infrastructure.Sitecore.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Speak.Client.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Speak.Components.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Speak.Components.Guidance.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Speak.Components.Web.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Speak.ItemWebApi.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Speak.Web.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Web.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Zip.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Buffers.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.IO.Packaging.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Memory.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Numerics.Vectors.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Security.AccessControl.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Security.Cryptography.Xml.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Security.Permissions.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Security.Principal.Windows.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Text.Encodings.Web.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Text.Json.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Threading.Tasks.Extensions.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.ValueTuple.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.Cors.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.Helpers.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.Http.Cors.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.Http.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.Http.WebHost.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.Mvc.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.Optimization.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.Razor.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.WebPages.Deployment.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.WebPages.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.WebPages.Razor.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Unicorn.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Unicorn.Roles.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\WebActivatorEx.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\WebGrease.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Yahoo.Yui.Compressor.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Antlr3.Runtime.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\DocumentFormat.OpenXml.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\HtmlAgilityPack.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\HtmlAgilityPack.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\ICSharpCode.SharpZipLib.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\ICSharpCode.SharpZipLib.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Analyzers.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Analyzers.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Core.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Core.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.FastVectorHighlighter.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Highlighter.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Highlighter.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Memory.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Memory.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Queries.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Queries.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Regex.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Regex.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.SimpleFacetedSearch.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.SimpleFacetedSearch.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Snowball.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.Snowball.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.SpellChecker.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Lucene.Net.Contrib.SpellChecker.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.AI.DependencyCollector.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.AI.Web.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.AI.WindowsServer.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.ApplicationInsights.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.AspNet.OData.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.IdentityModel.Logging.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.OData.Core.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.OData.Edm.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Caching.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Configuration.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.ServiceBus.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Microsoft.Spatial.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Mvp.Xml.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Newtonsoft.Json.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\nunit.framework.pdb
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\nunit.framework.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\PdfSharp.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\PdfSharp.Charting.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\protobuf-net.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Abstractions.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Annotations.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Buckets.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Client.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ContentSearch.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ContentSearch.Client.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ContentSearch.ContentExtraction.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ContentSearch.Data.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ContentSearch.Linq.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ContentSearch.Linq.Lucene.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ContentSearch.LuceneProvider.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Data.ResourceItems.Abstractions.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Data.ResourceItems.ProtobufNet.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Framework.Conditions.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Framework.Data.Blobs.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Framework.Data.Blobs.Abstractions.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.ItemWebApi.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Kernel.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Kernel.Portable.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.LayoutService.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Logging.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Logging.Client.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.NVelocity.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Publishing.WebDeploy.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Screenshots.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Web.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\Sitecore.Zip.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Buffers.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Memory.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Net.Http.Formatting.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Numerics.Vectors.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Security.AccessControl.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Security.Cryptography.Xml.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Security.Principal.Windows.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Text.Encodings.Web.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Text.Json.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Threading.Tasks.Extensions.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.ValueTuple.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.Helpers.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.Http.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.Http.Cors.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.Http.WebHost.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.Mvc.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.Optimization.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.Razor.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.WebPages.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.WebPages.Deployment.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\System.Web.WebPages.Razor.xml
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\de\PdfSharp.resources.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\bin\de\PdfSharp.Charting.resources.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\obj\Debug\MySitecoreDiaries.Features.csproj.AssemblyReference.cache
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\obj\Debug\MySitecoreDiaries.Features.csproj.CoreCompileInputs.cache
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\obj\Debug\MySitecoreDiaries.Features.csproj.CopyComplete
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\obj\Debug\MySitecoreDiaries.Features.dll
+C:\Jitendra\YT\Learn & Share\GitHub\MySitecoreDiaries\Custom Content Resolver\src\Feature\code\code\obj\Debug\MySitecoreDiaries.Features.pdb
